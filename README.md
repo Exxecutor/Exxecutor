@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Exxecutor buy you can call me Jonivictor or just João.
+- 👋 Hi, I’m @Exxecutor but you can call me Jonivictor or just João.
 - 👀 I’m interested in enginering and cloud computing
 - 🌱 I’m currently learning TMY-3 and Web Development
 - 💞️ I’m looking to collaborate on new projects
