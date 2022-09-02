@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<h2 align="left"> Hello World!! 
+<h2 align="left"> Hello World!! </h2>
 <p align="left"> 
   Me chamo João Victor mas você pode me chamar pelo meu usuário ou pelo meu apelido Jonivictor.
   Tenho 22 anos e sou de São Paulo.
