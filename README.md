@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Exxecutor but you can call me Jonivictor or just João.
-- 👀 I’m interested in enginering and cloud computing
-- 🌱 I’m currently learning TMY-3 and Web Development
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me at joao.fagundes@unifesp.br or jv_fn@hotmail.com
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!---
-Exxecutor/Exxecutor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> 
+  Me chamo João Victor mas você pode me chamar pelo meu usuário ou pelo meu apelido Jonivictor.
+  Sou formado em Engenharia e estou em transição de carreira para área da tecnologia.
+  Estou estudando para me especializar em Desenvolvimento Web Fullstack.
+</p>
+
+<p align="left">
+  <strong> 🦄 Minhas skills:</strong>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+  <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1RRF1uGkrpo96unPIdO6xi_oDYDXA-FfRcrjsgYbNuKrGcICLl-rwC-hS9fVMQfPcwc&usqp=CAU" alt="Java"/></code>
+  
+
+<p align="left">
+ <strong> 💼 Ferramentas:</strong>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  
+</p>
+
+<p align="left">
+  💌 Estou aberto a oportunidades e para colaborar em projetos. Entre em contato comigo : ⤵️
+</p>
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/joao-victor-fnascimento/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+ </p>
