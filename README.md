@@ -20,12 +20,12 @@
 
 <p align="left">
  <strong> 💼 Ferramentas:</strong>
-  <code><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="git"/></code>
-  <code><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="github"/></code>
-  <code><img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="docker"/></code>
-  <code><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="visual studio"/> </code>
-  <code><img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="eclipse"/> </code>
-  <code><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="figma"/> </code>
+  <a><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="git"/></a>
+  <a><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="github"/></a>
+  <a><img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="docker"/></a>
+  <a><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="visual studio"/> </a>
+  <a><img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="eclipse"/> </a>
+  <a><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="figma"/> </a>
   
 </p>
 
