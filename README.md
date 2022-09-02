@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<h2 align="left"> Hello World!! 
 <p align="left"> 
   Me chamo João Victor mas você pode me chamar pelo meu usuário ou pelo meu apelido Jonivictor.
+  Tenho 22 anos e sou de São Paulo.
   Sou formado em Engenharia e estou em transição de carreira para área da tecnologia.
   Estou estudando para me especializar em Desenvolvimento Web Fullstack.
 </p>
